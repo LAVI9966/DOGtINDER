@@ -1,0 +1,135 @@
+
+#title{
+    background-color: #ff4c68;
+    color: #fff;
+    
+}
+.fonttt{
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.navbar-brand{
+    font-family: 'Ubuntu';
+    font-size: 2.5rem;
+}
+.navbar {
+    padding-bottom: 4.5rem;
+}
+.nav-item{
+    padding-right: 18px;
+    padding-left: 18px;
+}
+.daunlod-bot{
+    position: relative;
+    left: 5%;
+    margin: 5% 3% 5% 0;
+}
+.imggg{
+    width: 50%;
+    transform: rotate(25deg);
+    position: relative;
+    left: 20%;
+
+}
+.rower{
+    margin-top: 2%;
+}
+.feature-11{
+    padding-top: 2rem;
+
+}
+.icoon{
+    color: #ef8172;
+    height: 20px;
+    width: 200px;
+}
+.icoon:hover{
+    color: #ff4c68;
+}
+#features{
+    padding: 7% 15%;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+}
+p{
+    color: gray;
+}
+
+.maintext:hover{
+    color: cadetblue;
+}
+#testimonials{
+    text-align: center;
+    line-height: 1.5;
+    color: #fff;
+    background-color: #ef8172;
+}                                                   
+.testimonial-image{                                                    
+    width: 10%;                                                    
+    border-radius: 100%;                                                    
+    margin-bottom: 1.5%;
+}
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+}
+.press-loogo{
+    width: 15%;
+    padding:1.5%;
+}
+.textt{
+    width: 75%;
+    padding: 4.5%;  
+    text-align: center;
+}
+.btn-sign{
+    width: 100%;
+}
+.prisec{
+    padding: 2% 8%;
+    text-align: center;
+}
+.innerprisec{
+    padding-left: 3% 2%;
+}
+.pri-tex{
+    padding: 1% 0% 2% 0%; 
+}
+#footer{
+    background-color: #fff;
+    text-align: center;
+    padding: 4% 0 1%;
+}
+.social-icon{
+    margin: 0% 0.5% 1.5% 0.5%;
+}
+#cta{
+    padding: 7% 15%;
+    text-align: center;
+    background-color:#ff4c68;
+
+}
+.cta-btn{
+    margin: 3% 1%;
+    margin-bottom: 8%;
+
+}
+
+.cta-heading{
+    color: #fff;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+@media (max-width: 1028px){
+    .imggg{
+        position: static;
+        transform: rotate(0deg);
+    }
+    #title{
+        text-align:center;
+    }
+}
